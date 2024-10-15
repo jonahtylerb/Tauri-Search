@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tauri-search</string>
+    <string name="main_activity_title">tauri-search</string>
+</resources>
